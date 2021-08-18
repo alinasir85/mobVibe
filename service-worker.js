@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mobVibe/precache-manifest.2a1054ed8e9726be8d99f632f2b03d19.js"
+  "/mobVibe/precache-manifest.5cb2a8acc2256375020b8e4d412c3fd8.js"
 );
 
 workbox.clientsClaim();

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3bcad8d169632e7402a3",
+    "revision": "641633c8a729873cfe38",
     "url": "/mobVibe/static/css/main.29b44030.chunk.css"
   },
   {
-    "revision": "3bcad8d169632e7402a3",
-    "url": "/mobVibe/static/js/main.3bcad8d1.chunk.js"
+    "revision": "641633c8a729873cfe38",
+    "url": "/mobVibe/static/js/main.641633c8.chunk.js"
   },
   {
     "revision": "fbf1e145251955889581",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/mobVibe/static/media/V.cf7c11da.png"
   },
   {
-    "revision": "06c0fd0d03aa211bc8079d207999f51d",
+    "revision": "18d21feb6d3824b37c2bd8c6a56b153a",
     "url": "/mobVibe/index.html"
   }
 ];
